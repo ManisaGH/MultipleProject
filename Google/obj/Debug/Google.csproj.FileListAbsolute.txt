@@ -22,3 +22,6 @@ D:\GitHubRep\MultipleProject\MultipleProject\Google\bin\Debug\ClassLibrary1.dll
 D:\GitHubRep\MultipleProject\MultipleProject\Google\bin\Debug\WebDriver.Support.dll
 D:\GitHubRep\MultipleProject\MultipleProject\Google\bin\Debug\ClassLibrary1.pdb
 D:\GitHubRep\MultipleProject\MultipleProject\Google\bin\Debug\WebDriver.Support.xml
+D:\GitHubRep\MultipleProject\MultipleProject\Google\obj\Debug\Interop.AutoItX3Lib.dll
+D:\GitHubRep\MultipleProject\MultipleProject\Google\obj\Debug\Google.csproj.ResolveComReference.cache
+D:\GitHubRep\MultipleProject\MultipleProject\Google\bin\Debug\AutoItX3.Assembly.xml
