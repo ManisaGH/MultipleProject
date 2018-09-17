@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\Selenium\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2018-09-10" time="16:18:29">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8762" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="RAV-DSK-244" user="Manisa.Maji" user-domain="RAVE-TECH.CO.IN" />
+  <culture-info current-culture="en-IN" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="D:\Selenium\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll" executed="True" result="Success" success="True" time="15.875" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="ClassLibrary1" executed="True" result="Success" success="True" time="15.875" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="Class1" executed="True" result="Success" success="True" time="15.873" asserts="0">
+            <results>
+              <test-case name="ClassLibrary1.Class1.VerifyCorrectTitle" executed="True" result="Success" success="True" time="15.863" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

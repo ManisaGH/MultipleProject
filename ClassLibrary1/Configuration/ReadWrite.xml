@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+  <Project name="Try1class Librarry">
+  </Project>
+  <Project name="Google Search">
+    <Module name="Search keywords">
+      <searchterm>Saturday</searchterm>
+      <searchname>
+      </searchname>
+    </Module>
+  </Project>
+</Configuration>
