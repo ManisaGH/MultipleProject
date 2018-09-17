@@ -9,6 +9,8 @@ using OpenQA.Selenium.Chrome;
 using System.Xml;
 using log4net;
 using System.Threading;
+using ClassLibrary1;
+
 
 namespace Google
 {

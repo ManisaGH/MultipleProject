@@ -8,3 +8,17 @@ D:\Selenium\MultipleProjectExample\Google\bin\Debug\WebDriver.xml
 D:\Selenium\MultipleProjectExample\Google\obj\Debug\Google.csprojResolveAssemblyReference.cache
 D:\Selenium\MultipleProjectExample\Google\obj\Debug\Google.dll
 D:\Selenium\MultipleProjectExample\Google\obj\Debug\Google.pdb
+D:\GitHubRep\MultipleProject\MultipleProject\Google\obj\Debug\Google.csprojResolveAssemblyReference.cache
+D:\GitHubRep\MultipleProject\MultipleProject\Google\obj\Debug\Google.dll
+D:\GitHubRep\MultipleProject\MultipleProject\Google\obj\Debug\Google.pdb
+D:\GitHubRep\MultipleProject\MultipleProject\Google\bin\Debug\Google.dll
+D:\GitHubRep\MultipleProject\MultipleProject\Google\bin\Debug\Google.pdb
+D:\GitHubRep\MultipleProject\MultipleProject\Google\bin\Debug\log4net.dll
+D:\GitHubRep\MultipleProject\MultipleProject\Google\bin\Debug\nunit.framework.dll
+D:\GitHubRep\MultipleProject\MultipleProject\Google\bin\Debug\WebDriver.dll
+D:\GitHubRep\MultipleProject\MultipleProject\Google\bin\Debug\nunit.framework.xml
+D:\GitHubRep\MultipleProject\MultipleProject\Google\bin\Debug\WebDriver.xml
+D:\GitHubRep\MultipleProject\MultipleProject\Google\bin\Debug\ClassLibrary1.dll
+D:\GitHubRep\MultipleProject\MultipleProject\Google\bin\Debug\WebDriver.Support.dll
+D:\GitHubRep\MultipleProject\MultipleProject\Google\bin\Debug\ClassLibrary1.pdb
+D:\GitHubRep\MultipleProject\MultipleProject\Google\bin\Debug\WebDriver.Support.xml
